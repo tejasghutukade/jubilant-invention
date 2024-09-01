@@ -23,3 +23,7 @@ cd project_name
 
 # Install dependencies
 npm install
+
+#Contact
+
+softstand@gmail.com
