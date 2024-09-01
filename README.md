@@ -26,4 +26,4 @@ npm install
 
 #Contact
 
-softstand1@gmail.com
+softstand2@gmail.com
